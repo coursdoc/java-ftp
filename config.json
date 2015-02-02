@@ -1,0 +1,17 @@
+{
+	"host"	:	"xx.xxx.xxx.xx",
+	"port"	:	"21",
+	"user"	:	"userName",
+	"pass"	:	"password",
+	"createDate":"true",
+	"local"	:	"/Volumes/mounir_disque_2/backup/vps/",
+	"data"	:	[
+		"/home/userName/projet1/data/gitProjet",
+		"/home/userName/projet1/data/images"
+	],
+	"noDownload": [
+		"/home/userName/projet1/data/gitProjet/database/23-12-14_12-02-56",
+		"/home/userName/projet1/data/images/diretory1",
+		"/home/userName/projet1/data/images/diretory2"
+	]
+}
